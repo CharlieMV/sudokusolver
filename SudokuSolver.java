@@ -6,7 +6,7 @@ import java.util.Scanner;
  *	SudokuSolver - Solves an incomplete Sudoku puzzle using recursion and backtracking
  *
  *	@author	Charles Chang
- *	@since	23 November, 2024
+ *	@since	23 January, 2024
  *
  */
 public class SudokuSolver {
